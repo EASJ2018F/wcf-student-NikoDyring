@@ -1,0 +1,7 @@
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebservice\bin\StudentWebservice.dll.config
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebservice\bin\StudentWebservice.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebservice\bin\StudentWebservice.pdb
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebservice\obj\Debug\StudentWebservice.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebservice\obj\Debug\StudentWebservice.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebservice\obj\Debug\StudentWebservice.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebservice\obj\Debug\StudentWebservice.pdb

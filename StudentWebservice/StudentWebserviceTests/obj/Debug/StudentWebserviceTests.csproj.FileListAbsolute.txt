@@ -1,0 +1,16 @@
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\StudentWebserviceTests.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\StudentWebserviceTests.pdb
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\StudentWebservice.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\StudentWebservice.pdb
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\StudentWebservice.dll.config
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\obj\Debug\StudentWebserviceTests.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\obj\Debug\StudentWebserviceTests.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\obj\Debug\StudentWebserviceTests.dll
+C:\Users\Bruger\Documents\GitHub\Programmering\StudentWebservice\StudentWebserviceTests\obj\Debug\StudentWebserviceTests.pdb
